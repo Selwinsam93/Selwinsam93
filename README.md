@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Selwinsam93
-- 👀 I’m interested in web development using django
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning frameworks in python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me @ selwinsam@icloud.com
 
 <!---
